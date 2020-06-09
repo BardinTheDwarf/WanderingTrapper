@@ -1,0 +1,13 @@
+{
+  "entity.wandering_trapper.wandering_trapper": "Охотник",
+  "entity.wandering_trapper.trapper_dog": "Охотничья собака",
+  "entity.minecraft.villager.wandering_trapper.furrier": "Скорняк",
+  "item.wandering_trapper.wandering_trapper_spawn_egg": "Яйцо призыва охотника",
+  "item.wandering_trapper.beaver_pelt": "Бобровая шкурка",
+  "item.wandering_trapper.marten_pelt": "Шкурка куницы",
+  "item.wandering_trapper.mink_pelt": "Норочья шкурка",
+  "item.wandering_trapper.fox_pelt": "Лисья шкура",
+  "item.wandering_trapper.snow_fox_pelt": "Шкура снежной лисицы",
+  "item.wandering_trapper.polarbear_pelt": "Шкура белого медведя",
+  "block.wandering_trapper.pelt_scraping_log": "Место для выделки шкур"
+}
